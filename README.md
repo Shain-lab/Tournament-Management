@@ -5,3 +5,6 @@ The main goal of the application is to maintain the records of Student details w
 We have used PHP as a server-side language and MySQL for storing the database, HTML and CSS for Structure and Designing of the website and JavaScript for Validations.
 
 Co-Developer- Swarup Seal
+
+#***Software Preview***
+![./images/TeZuS.png]
