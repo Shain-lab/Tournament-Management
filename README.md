@@ -7,4 +7,6 @@ We have used PHP as a server-side language and MySQL for storing the database, H
 Co-Developer- Swarup Seal
 
 #***Software Preview***
-![./images/TeZuS.png]
+![Software Preview](images/TeZuS.png)
+![Software Preview](images/TeZuS2.png)
+![Software Preview](images/TeZuS3.png)
