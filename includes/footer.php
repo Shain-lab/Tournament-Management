@@ -14,6 +14,6 @@
 				<li><a class="googleplus" href="https://code-projects.org/"><span>Google+</span></a></li>
 			</ul>
 		</div>
-		<p class="wow zoomIn animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">© 2021 TeZuS . Developed by DevShain</p>
+		<p class="wow zoomIn animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">© 2021 TeZuS . Developed by <a href="https://www.shainaktar.online">DEVShain</a> & Swarup</p>
 	</div>
 </div>
